@@ -8,6 +8,11 @@
 </head>
 <body>
 test2.jsp
+
 	eclipse update
+
+   git update
+
+all updates confirmed
 </body>
 </html>
